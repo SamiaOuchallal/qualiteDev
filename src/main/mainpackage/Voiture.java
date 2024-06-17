@@ -1,5 +1,7 @@
 package mainpackage;
 
+import org.junit.jupiter.params.shadow.com.univocity.parsers.common.StringCache;
+
 public class Voiture {
 
     private String marque;
